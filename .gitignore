@@ -1,0 +1,13 @@
+# Node
+server/node_modules/
+server/.env
+
+# React
+client/node_modules/
+client/.env
+
+# General
+.DS_Store
+.env
+dist/
+build/
