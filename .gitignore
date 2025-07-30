@@ -1,13 +1,14 @@
-# Node
+# Node backend
 server/node_modules/
 server/.env
 
-# React
+# React frontend
 client/node_modules/
+client/build/
 client/.env
 
-# General
+# Logs and misc
+*.log
 .DS_Store
-.env
-dist/
-build/
+.vscode/
+.idea/
